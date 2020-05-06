@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-Description: FireSensor-Alarm
+Bundle-Name: FireSensor-Alarm
+Bundle-Version: 1.0.0
+Built-By: User
+Bundle-Activator: tutorial.example3.Activator
+Bundle-Vendor: Apache Felix
+Import-Package: org.osgi.framework,tutorial.example2.service
+Build-Jdk: 1.8.0_241
+Created-By: Maven Integration for Eclipse
+

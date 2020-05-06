@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/firesensorDB?serverTimezone=UTC
+    username: 'root'
+    password: ''
+  jpa:
+    hibernate.ddl-auto: update
